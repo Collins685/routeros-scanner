@@ -10,7 +10,7 @@ This tool’s functionalities include the following:
 - Look for default ports change 
 - Look for non-default users 
 - Look for suspicious files
-- Look for proxy, socks and FW rules
+- LooK for proxy, socks and FW rules
 
 ## Executing and arguments
 	
